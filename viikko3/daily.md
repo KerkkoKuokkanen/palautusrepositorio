@@ -1,0 +1,3 @@
+Hyvässä daily scrumissa keskitytään vain olennaiseen. Sen ei kuuluisi kestää pitkään ja siinä kaikkien tulisi olla aktiivisesti mukana. Ideana ei ole verrata omia aikaansaannoksiaan vaan saada kaikki ajan tasalle siitä missä menneeän. Daily scrum yleensä pidetään päivän alkupuolella. Hyvänä aikana voisi pitää vaikka tunti töiden alkamisen jälkeen, niin kaikki on saanut päivän käyntiin ja aamukahvin juotua.
+
+Daily scrumissa kannattaa keskittyä niihin asioihin mitä tiimi tekee juuri nyt tulevan päivän aikana. Ei kuitenkaan kannata alkaa miettiä mitään suurempia algoritmeja tai ongelmia mitä ratkaista. Ideana on että tiimin jäsenet ovat kartalla mitä lähteä tekemään ja ovat valmiina auttamaan ja vastaanottamaan apua päivän haasteissa.
